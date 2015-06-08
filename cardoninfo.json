@@ -1,6 +1,9 @@
 {
 	"name": "Cardoninfo",
 	"version": "0.0.1",
-	"description": "API Rest de Servidor a Servidor, con opción a usuario",
-	"dependencies": ""
+	"description": "API Rest de Servidor a Servidor,
+					para publicar tags de Audio y Vídeo
+					al e-Mail y Redes Sociales del suscriptor,
+					para informarle e informar a sus Seguidores
+					que su contenido está Al Aire."
 }
