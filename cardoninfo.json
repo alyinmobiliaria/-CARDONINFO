@@ -21,4 +21,10 @@
 					del suscriptor, para informarle e informar
 					a sus Seguidores, de forma automatica, 
 					que su contenido está Al Aire."
+	"dev-info": {
+	"building with": "Node Js"
+	}
+	"dependencies": {
+		
+	}
 } 
