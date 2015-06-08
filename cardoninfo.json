@@ -1,9 +1,24 @@
 {
 	"name": "Cardoninfo",
 	"version": "0.0.1",
-	"description": "API Rest de Servidor a Servidor,
-					para publicar tags de Audio y Vídeo
-					al e-Mail y Redes Sociales del suscriptor,
-					para informarle e informar a sus Seguidores
+	"author": {
+		"name": "Jorge Mario Carrillo Lopez TW: @EL4400J FB: JCARRILO",
+		"e-mail": "alyinmobiliariasas@gmail.com"
+	}
+	"license": "MIT",
+	"repository": {
+		"type": "Github"
+		"url": "https://github.com/alyinmobiliaria/-CARDONINFO"
+	}
+	"webpage": {
+		"radio": "cardonestereo.com",
+		"tv": "cardon.tv"
+	}
+	"description": "API Rest mixta, de Servidor - Servidor y 
+					Servidor - Cliente, para publicar tags 
+					de Audio y de Vídeo de la señal en 
+					Live Streaming, al e-Mail y Redes Sociales
+					del suscriptor, para informarle e informar
+					a sus Seguidores, de forma automatica, 
 					que su contenido está Al Aire."
-}
+} 
